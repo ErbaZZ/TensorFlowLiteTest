@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TensorFlowLiteTest</string>
+    <string name="button_text">What\'s in the pic?</string>
+</resources>
